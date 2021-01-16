@@ -1,0 +1,65 @@
+
+html { 
+  background: url(C:/users/Branko/Desktop/TheFitGamerClub/img/fifa-background.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+ 
+}
+
+
+
+.tekst {
+	color:yellow;
+	font-size: 40px !important;
+	line-height: 60px !important;
+}
+
+h2 {
+	font-weight:bolder !important;
+	color:#D8D8D8 !important;
+	font-size: 50px !important;
+}
+
+h2 a {
+	color:white !important;
+    font-family: "Big Shoulders Stencil Text";
+}
+
+h3 i {
+	color:white !important;
+}
+ 
+
+.wrapper footer .footer-bg {
+	background-color:rgb(6, 30, 55);
+	max-height: 100px
+
+	
+
+}
+
+.wrapper footer.footer .footer-menu ul li a {
+	font-family:"Big Shoulders Stencil Text";
+	font-size:60px;
+	
+
+}
+
+.wrapper footer.footer .footer-menu ul li {
+    display: inline;
+    list-style: outside none none;
+    margin: 0;
+    padding: 40px 90px 0px 90px;
+}
+
+.wrapper header .container .row .col-md-10 .menu ul li {
+
+
+}
+
+
+.wrapper header.header .menu ul li a {
+	color:white !important;
+}
